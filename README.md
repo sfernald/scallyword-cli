@@ -1,5 +1,5 @@
 # scallyword-cli
-Word game coded in go
+Word game coded in Go
 
 
 This is a variation of wordle. The program randomly selects a six letter word and you are required to guess a randomly selected four letter word
