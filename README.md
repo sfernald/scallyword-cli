@@ -6,4 +6,4 @@ This is a variation of wordle. The program randomly selects a six letter word an
 that can be built from the letters of the six letter word. You have three guesses and the program reports which letters you get correct or incorrect
 with each guess to help with the next guess. 
 
-Written in Go to learn the language. I originally wrote this in Nim and ported it over. 
+Written in Go to learn the language. I originally wrote this in Nim and ported it over. It runs on the cli. No graphics. 
